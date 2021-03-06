@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: ece0472360763d24bb54151f13b9ff83
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coral_0
+    21300002: coral_1
+    21300004: coral_2
+    21300006: coral_3
+    21300008: coral_4
+    21300010: coral_5
+    21300012: coral_6
+    21300014: coral_7
+    21300016: coral_8
+    21300018: coral_9
+    21300020: coral_10
+    21300022: coral_11
+    21300024: coral_12
+    21300026: coral_13
+    21300028: coral_14
+    21300030: coral_15
+    21300032: coral_16
+    21300034: coral_17
+    21300036: coral_18
+    21300038: coral_19
+    21300040: coral_20
+    21300042: coral_21
+    21300044: coral_22
+    21300046: coral_23
+    21300048: coral_24
+    21300050: coral_25
+    21300052: coral_26
+    21300054: coral_27
+    21300056: coral_28
+    21300058: coral_29
+    21300060: coral_30
+    21300062: coral_31
+    21300064: coral_32
+    21300066: coral_33
+    21300068: coral_34
+    21300070: coral_35
+    21300072: coral_36
+    21300074: coral_37
+    21300076: coral_38
+    21300078: coral_39
+    21300080: coral_40
+    21300082: coral_41
+    21300084: coral_42
+    21300086: coral_52
+    21300088: coral_53
+    21300090: coral_54
+    21300092: coral_55
+    21300094: coral_62
+    21300096: coral_66
+    21300098: coral_67
+    21300100: coral_76
+    21300102: coral_77
+    21300104: coral_64
+    21300106: coral_65
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: coral_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2799
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2821
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2799
+        width: 182
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_3
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2763
+        width: 231
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_4
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2772
+        width: 158
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_5
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2805
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_6
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 2747
+        width: 111
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_7
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 2761
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_8
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 2769
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_9
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 2757
+        width: 151
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2474
+        width: 196
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_11
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 2497
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_16
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2455
+        width: 142
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_17
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 2465
+        width: 174
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_18
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2480
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_19
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2497
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_22
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 2465
+        width: 186
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2476
+        width: 189
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_32
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2188
+        width: 158
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_33
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2135
+        width: 232
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_34
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2207
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_35
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2194
+        width: 190
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_36
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 2154
+        width: 186
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_41
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 2171
+        width: 92
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_42
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 2219
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_52
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1891
+        width: 109
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1862
+        width: 226
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_54
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1877
+        width: 183
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_55
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1893
+        width: 180
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_62
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 1851
+        width: 166
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_66
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1927
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_67
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1915
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_76
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1569
+        width: 186
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_77
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1589
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_64
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2133
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coral_65
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 2151
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

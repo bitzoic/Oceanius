@@ -1,0 +1,7 @@
+fileFormatVersion: 2
+guid: bbb3b566c26828847b16285754c34f18
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 7f67fe06352734f4cab88b4451b2e548, type: 3}
+  - _BumpMap: {fileID: 2800000, guid: 7f67fe06352734f4cab88b4451b2e548, type: 3}
+  userData: 

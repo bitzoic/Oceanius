@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 6457135f045d0c747bda898dcb264c8e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: great_hammerhead_sprite_0
+    21300002: great_hammerhead_sprite_1
+    21300004: great_hammerhead_sprite_2
+    21300006: great_hammerhead_sprite_3
+    21300008: great_hammerhead_sprite_4
+    21300010: great_hammerhead_sprite_5
+    21300012: great_hammerhead_sprite_6
+    21300014: great_hammerhead_sprite_7
+    21300016: great_hammerhead_sprite_8
+    21300018: great_hammerhead_sprite_9
+    21300020: great_hammerhead_sprite_10
+    21300022: great_hammerhead_sprite_11
+    21300024: great_hammerhead_sprite_12
+    21300026: great_hammerhead_sprite_13
+    21300028: great_hammerhead_sprite_14
+    21300030: great_hammerhead_sprite_15
+    21300032: great_hammerhead_sprite_16
+    21300034: great_hammerhead_sprite_17
+    21300036: great_hammerhead_sprite_18
+    21300038: great_hammerhead_sprite_19
+    21300040: great_hammerhead_sprite_20
+    21300042: great_hammerhead_sprite_21
+    21300044: great_hammerhead_sprite_22
+    21300046: great_hammerhead_sprite_23
+    21300048: great_hammerhead_sprite_24
+    21300050: great_hammerhead_sprite_25
+    21300052: great_hammerhead_sprite_26
+    21300054: great_hammerhead_sprite_27
+    21300056: great_hammerhead_sprite_28
+    21300058: great_hammerhead_sprite_29
+    21300060: great_hammerhead_sprite_30
+    21300062: great_hammerhead_sprite_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: great_hammerhead_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2040
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2040
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2040
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2040
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2040
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 2040
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 4760
+        y: 2040
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 2040
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 2040
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1360
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1360
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1360
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1360
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1360
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1360
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 4760
+        y: 1360
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 1360
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 1360
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 686
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 679
+        width: 674
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 680
+        width: 682
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 680
+        width: 677
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 680
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 680
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 680
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 4760
+        y: 680
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 680
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 680
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: great_hammerhead_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 680
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
